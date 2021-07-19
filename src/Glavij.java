@@ -4,6 +4,6 @@ public class Glavij {
         String lulu = "kuku";
         System.out.println(lulu);
         int t;
-
+        int x = 654;
     }
 }
