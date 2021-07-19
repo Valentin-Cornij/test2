@@ -3,5 +3,7 @@ public class Glavij {
         int i = 5;
         String lulu = "kuku";
         System.out.println(lulu);
+        int t;
+
     }
 }
